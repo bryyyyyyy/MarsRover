@@ -1,0 +1,13 @@
+.vs
+
+Domain/bin/
+Domain/obj/
+
+Enterprise/bin/
+Enterprise/obj/
+
+Exercise/bin/
+Exercise/obj/
+
+UnitTEst/bin/
+UnitTEst/obj/
